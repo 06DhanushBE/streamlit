@@ -1,3 +1,4 @@
+langchain_community
 streamlit>=1.26.0
 yfinance>=0.2.31
 plotly>=5.17.0
